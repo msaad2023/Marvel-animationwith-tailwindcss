@@ -1,7 +1,6 @@
 # Get our hands dirty with tailwindcss
 
-You can watch the tutorial on my YouTube channel via this link 👉 [tailwindcss tuorial](https://www.youtube.com/playlist?list=PLfDx4cQoUNOY1nRXPd3o03lVQzpppY9xe)
-
+Check the live demo here 👉️ https://msaad2023.github.io/Marvel-animationwith-tailwindcss/
 ## Setup
 ```console
   npm install
